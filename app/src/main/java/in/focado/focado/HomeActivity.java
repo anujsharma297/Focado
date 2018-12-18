@@ -13,7 +13,7 @@ import android.widget.TextView;
 import org.w3c.dom.Text;
 
 public class HomeActivity extends AppCompatActivity {
-
+    private int i;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
